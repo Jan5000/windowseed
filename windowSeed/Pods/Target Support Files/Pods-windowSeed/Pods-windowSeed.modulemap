@@ -1,0 +1,6 @@
+framework module Pods_windowSeed {
+  umbrella header "Pods-windowSeed-umbrella.h"
+
+  export *
+  module * { export * }
+}
